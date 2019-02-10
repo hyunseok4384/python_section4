@@ -1,1 +1,1 @@
-{"people": [{"grade": [95, 77, 89, 91], "name": "Kim", "website": "naver.com", "from": "Seoul"}, {"grade": [85, 67, 100, 93], "name": "Park", "website": "google.com", "from": "Busan"}, {"grade": [98, 79, 99, 92], "name": "Lee", "website": "daum.com", "from": "Incheon"}]}
+{"people": [{"name": "Kim", "from": "Seoul", "website": "naver.com", "grade": [95, 77, 89, 91]}, {"name": "Park", "from": "Busan", "website": "google.com", "grade": [85, 67, 100, 93]}, {"name": "Lee", "from": "Incheon", "website": "daum.com", "grade": [98, 79, 99, 92]}]}
