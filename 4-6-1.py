@@ -28,6 +28,7 @@ import pandas as pd
 #print(df)
 #print(pd.isnull(df))
 
+
 #실습 정리 및 인덱스 재정의
 df = pd.read_excel('c:/section4/excel_s1.xlsx', header=0)
 print(df)
